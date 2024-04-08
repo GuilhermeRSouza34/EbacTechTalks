@@ -1,6 +1,6 @@
 AOS.init();
 
-const dataDoEvento = new Date("Dec 12, 2022 19:00:00");
+const dataDoEvento = new Date("Dec 12, 2027 19:00:00");
 const timeStampDoEvento = dataDoEvento.getTime();
 
 const contaAsHoras = setInterval(function() {
@@ -22,6 +22,6 @@ const contaAsHoras = setInterval(function() {
 
     if (distanciaAteOEvento < 0) {
         clearInterval(contaAsHoras);
-        document.getElementById('contador').innerHTML = 'Evento expirado';
+        document.getElementById('contador').innerHTML = 'Evento Expirado';
     }
 }, 1000);
