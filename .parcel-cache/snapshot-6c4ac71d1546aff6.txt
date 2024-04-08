@@ -1,11 +1,11 @@
-7143
+7153
 82C:\Users\guiza\Desktop\EbacTechTalks\node_modules\source-map-js\lib\source-node.js133570760912171960 0
 85C:\Users\guiza\Desktop\EbacTechTalks\node_modules\css-tree\cjs\syntax\node\Number.cjs133570760921321241 0
 47C:\Users\guiza\Desktop\EbacTechTalks\src\images133570767238033502 1
 78C:\Users\guiza\Desktop\EbacTechTalks\node_modules\css-tree\lib\walker\index.js133570760928758120 0
 81C:\Users\guiza\Desktop\EbacTechTalks\node_modules\source-map\lib\binary-search.js133570760911260421 0
 81C:\Users\guiza\Desktop\EbacTechTalks\node_modules\caniuse-lite\data\regions\BE.js133570760918389999 0
-41C:\Users\guiza\Desktop\EbacTechTalks\dist133570840886389007 1
+41C:\Users\guiza\Desktop\EbacTechTalks\dist133570842133302121 1
 83C:\Users\guiza\Desktop\EbacTechTalks\node_modules\@swc\helpers\esm\_to_primitive.js133570760926320791 0
 117C:\Users\guiza\Desktop\EbacTechTalks\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-infile-tar.h133117882010000000 0
 104C:\Users\guiza\Desktop\EbacTechTalks\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\README.md133570760908174895 0
@@ -38,7 +38,7 @@
 54C:\Users\guiza\Desktop\EbacTechTalks\sharp.config.json133570772493743034 0
 77C:\Users\guiza\Desktop\EbacTechTalks\node_modules\css-tree\lib\lexer\Lexer.js133570760928778085 0
 72C:\Users\guiza\Desktop\EbacTechTalks\node_modules\color-string\README.md133570772720078347 0
-49C:\Users\guiza\Desktop\EbacTechTalks\package.json133570840861548021 0
+49C:\Users\guiza\Desktop\EbacTechTalks\package.json133570841853206755 0
 113C:\Users\guiza\Desktop\EbacTechTalks\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\encoding.h133117882010000000 0
 120C:\Users\guiza\Desktop\EbacTechTalks\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-doc-meta-data.h133117882010000000 0
 76C:\Users\guiza\Desktop\EbacTechTalks\node_modules\msgpackr\dist\node.cjs.map133570760916919074 0
@@ -918,6 +918,7 @@
 128C:\Users\guiza\Desktop\EbacTechTalks\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\MediaQuery.js133570760920991217 0
 114C:\Users\guiza\Desktop\EbacTechTalks\node_modules\@swc\helpers\_\_create_for_of_iterator_helper_loose\package.json133570760929555992 0
 118C:\Users\guiza\Desktop\EbacTechTalks\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-outfile-zip.h133117882010000000 0
+59C:\Users\guiza\Desktop\EbacTechTalks\dist\index.5564a631.js133570842133226960 0
 64C:\Users\guiza\Desktop\EbacTechTalks\node_modules\wrappy\LICENSE133570772719359766 0
 69C:\Users\guiza\Desktop\EbacTechTalks\node_modules\cosmiconfig\LICENSE133570760906913390 0
 69C:\Users\guiza\Desktop\EbacTechTalks\node_modules\wrappy\package.json133570772718501039 0
@@ -3926,6 +3927,7 @@
 110C:\Users\guiza\Desktop\EbacTechTalks\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\060-contribute.md133570760919445567 0
 66C:\Users\guiza\Desktop\EbacTechTalks\node_modules\domutils\LICENSE133570760906863395 0
 84C:\Users\guiza\Desktop\EbacTechTalks\node_modules\css-tree\lib\syntax\node\String.js133570760929655642 0
+60C:\Users\guiza\Desktop\EbacTechTalks\dist\ui-ux.8e31f4bd.png133570842128933836 0
 88C:\Users\guiza\Desktop\EbacTechTalks\node_modules\htmlnano\docs\docs\010-introduction.md133570760917894339 0
 79C:\Users\guiza\Desktop\EbacTechTalks\node_modules\electron-to-chromium\index.js133570760910762719 0
 79C:\Users\guiza\Desktop\EbacTechTalks\node_modules\domhandler\lib\index.d.ts.map133570760909935723 0
@@ -4003,6 +4005,7 @@
 113C:\Users\guiza\Desktop\EbacTechTalks\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean\index.js133570760915778682 0
 63C:\Users\guiza\Desktop\EbacTechTalks\node_modules\escalade\sync133570760911350444 1
 96C:\Users\guiza\Desktop\EbacTechTalks\node_modules\css-select\node_modules\entities\lib\decode.js133570760911790429 0
+60C:\Users\guiza\Desktop\EbacTechTalks\dist\index.264381cd.css133570842133226960 0
 95C:\Users\guiza\Desktop\EbacTechTalks\node_modules\csso\node_modules\css-tree\lib\lexer\error.js133570760926430798 0
 74C:\Users\guiza\Desktop\EbacTechTalks\node_modules\escalade\sync\index.d.ts133570760911410419 0
 73C:\Users\guiza\Desktop\EbacTechTalks\node_modules\escalade\sync\index.mjs133570760910797797 0
@@ -4109,7 +4112,7 @@
 65C:\Users\guiza\Desktop\EbacTechTalks\node_modules\clone\clone.iml133570760910342628 0
 77C:\Users\guiza\Desktop\EbacTechTalks\node_modules\domelementtype\lib\index.js133570760909005644 0
 99C:\Users\guiza\Desktop\EbacTechTalks\node_modules\css-select\node_modules\domhandler\lib\index.d.ts133570760912882048 0
-52C:\Users\guiza\Desktop\EbacTechTalks\dist\index.html133570840886373871 0
+52C:\Users\guiza\Desktop\EbacTechTalks\dist\index.html133570842133226960 0
 87C:\Users\guiza\Desktop\EbacTechTalks\node_modules\domelementtype\lib\esm\index.d.ts.map133570760910632636 0
 76C:\Users\guiza\Desktop\EbacTechTalks\node_modules\@parcel\cache\package.json133570760913125468 0
 95C:\Users\guiza\Desktop\EbacTechTalks\node_modules\csso\node_modules\css-tree\lib\lexer\match.js133570760928868099 0
@@ -4136,6 +4139,7 @@
 100C:\Users\guiza\Desktop\EbacTechTalks\node_modules\@parcel\runtime-js\src\helpers\worker\js-loader.js133570760915508550 0
 102C:\Users\guiza\Desktop\EbacTechTalks\node_modules\csso\node_modules\css-tree\cjs\lexer\match-graph.cjs133570760919685551 0
 87C:\Users\guiza\Desktop\EbacTechTalks\node_modules\dom-serializer\lib\esm\index.d.ts.map133570760911860495 0
+60C:\Users\guiza\Desktop\EbacTechTalks\dist\fundo.1dbc7008.png133570842128933836 0
 81C:\Users\guiza\Desktop\EbacTechTalks\node_modules\dom-serializer\lib\esm\index.js133570760909655649 0
 85C:\Users\guiza\Desktop\EbacTechTalks\node_modules\dom-serializer\lib\esm\package.json133570760910722732 0
 65C:\Users\guiza\Desktop\EbacTechTalks\node_modules\detect-libc\bin133570760909855709 1
@@ -6941,6 +6945,7 @@
 77C:\Users\guiza\Desktop\EbacTechTalks\node_modules\@parcel\events\lib\index.js133570760910980424 0
 84C:\Users\guiza\Desktop\EbacTechTalks\node_modules\@parcel\events\src\ValueEmitter.js133570760912211953 0
 82C:\Users\guiza\Desktop\EbacTechTalks\node_modules\@parcel\events\lib\Disposable.js133570760908039779 0
+63C:\Users\guiza\Desktop\EbacTechTalks\dist\index.5564a631.js.map133570842133292129 0
 81C:\Users\guiza\Desktop\EbacTechTalks\node_modules\@parcel\diagnostic\package.json133570760910692729 0
 73C:\Users\guiza\Desktop\EbacTechTalks\node_modules\@parcel\core\index.d.ts133570760929245683 0
 66C:\Users\guiza\Desktop\EbacTechTalks\node_modules\@parcel\core\src133570760927736296 1
@@ -7137,7 +7142,12 @@
 65C:\Users\guiza\Desktop\EbacTechTalks\node_modules\.bin\semver.ps1133570760945154004 0
 63C:\Users\guiza\Desktop\EbacTechTalks\node_modules\.bin\svgo.cmd133570760945154004 0
 77C:\Users\guiza\Desktop\EbacTechTalks\node_modules\.bin\update-browserslist-db133570760945163986 0
+62C:\Users\guiza\Desktop\EbacTechTalks\dist\backend.750d600b.png133570842128933836 0
+59C:\Users\guiza\Desktop\EbacTechTalks\dist\data.67b3e070.png133570842129836875 0
 71C:\Users\guiza\Desktop\EbacTechTalks\dist\EbacTechTalks.59712999.js.map133570840886208617 0
+64C:\Users\guiza\Desktop\EbacTechTalks\dist\ebac_logo.0501c0d5.svg133570842133226960 0
+63C:\Users\guiza\Desktop\EbacTechTalks\dist\frontend.1e45a506.png133570842129836875 0
+64C:\Users\guiza\Desktop\EbacTechTalks\dist\index.264381cd.css.map133570842133292129 0
 59C:\Users\guiza\Desktop\EbacTechTalks\dist\index.aa69868b.js133570840886143400 0
 44C:\Users\guiza\Desktop\EbacTechTalks\dist\js133570840886073087 1
 48C:\Users\guiza\Desktop\EbacTechTalks\dist\styles133570840886419227 1
